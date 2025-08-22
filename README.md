@@ -82,7 +82,7 @@ for beginners. Keep it concise but clear.
 
 ## 🎥 Check out this video 
 
-👉 Watch: [My LinkedIn Post](https://www.linkedin.com/in/your-link-here)  
+👉 Watch: [My LinkedIn Post](https://www.linkedin.com/posts/abhiram-palle-bb8b10285_llm-ai-chatgpt-activity-7364679426938167296-WHT-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVl67wBNmNmN77J_9AW2OqCgmSwgQhw-8A)  
 
 ---
 
